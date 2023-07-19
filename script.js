@@ -32,7 +32,7 @@ const intializer = () => {
         fontName.appendChild(option);
     });
 
-    for (let i = 1; i <= 7; i++) {
+    for(let i = 1; i <= 7; i++) {
         let option = document.createElement("option");
         option.value = i;
         option.innerHTML = i;
@@ -59,7 +59,7 @@ advancedOptionButton.forEach((button) => {
 });
 
 linkButton.addEventListener("click", () => {
-    let userLink = prompt("Enter a URL?");
+    let userLink = prompt("Enter a URL ?");
     if (/http/i.test(userLink)) {
         modifyText(linkButton.id, false, userLink);
     } else {
