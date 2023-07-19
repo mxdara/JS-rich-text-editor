@@ -2,6 +2,8 @@
 
 The JavaScript Rich Text Editor is a powerful and customizable tool for creating and editing formatted text content in web applications. With this editor, you can provide a user-friendly interface for your users to style and format their text with various options.
 
+![screenshot](/public/images/screenshot.png)
+
 ## Table of Contents
 
 - [JavaScript Rich Text Editor](#javascript-rich-text-editor)
@@ -101,5 +103,5 @@ You can customize the editor's appearance by modifying the CSS styles. The edito
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the GitHub repository.
 
 ## Screenshot
-![screenshot](/public/images/screenshot.png)
+
 
