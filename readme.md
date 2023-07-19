@@ -13,6 +13,7 @@ The JavaScript Rich Text Editor is a powerful and customizable tool for creating
   - [Configuration](#configuration)
   - [Customization](#customization)
   - [Contributing](#contributing)
+  - [Screenshot](#screenshot)
 
 
 ## Getting Started
@@ -98,4 +99,7 @@ You can customize the editor's appearance by modifying the CSS styles. The edito
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the GitHub repository.
+
+## Screenshot
+![screenshot](/public/images/screenshot.png)
 
